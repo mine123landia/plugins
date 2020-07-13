@@ -1,0 +1,5 @@
+name: Swapdeath
+version: ${project.version}
+main: me.minecraftbrasil.swapdeath.Swapdeath
+api-version: 1.13
+authors: [isquelet0]
